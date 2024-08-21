@@ -1,0 +1,16 @@
+.title{
+    display: flex;
+    justify-content: center;
+    margin: 7rem 0 0 0;
+}
+
+.table{
+    width: 80%;
+    margin-left: 13rem;
+    margin-top: 4rem;
+}
+
+.att{
+    display: flex;
+    justify-content: center;
+}
